@@ -1,4 +1,4 @@
-# 📘 SyllabusBOT
+# 📘SyllabusBOT
 
 A simple AI-powered app to help students understand syllabus topics in an easy, student-friendly way using OpenAI GPT-3.5 and Streamlit.
 
